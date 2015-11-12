@@ -1,0 +1,3 @@
+language: ruby
+before_script:
+  - cp db/database.yml.default db/database.yml
